@@ -2,7 +2,7 @@
   "name": "triangle-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mzhelezova.github.io/triangle-app",
+  "homepage": "https://mzhelezova.github.io/Tradeshift",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
