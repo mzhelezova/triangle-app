@@ -9,7 +9,7 @@ export const checkFigureType = ( sides ) => {
             throw new Error('Invalid numbers');
         }
 
-        if(side < 0) {
+        if(side <= 0) {
             throw new Error('All values must positive');
         }
     }
