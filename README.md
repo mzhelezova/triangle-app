@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Try It
 ---
 
-TODO
+http://mzhelezova.github.io/triangle-app
 
 
 Description
