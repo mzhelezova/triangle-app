@@ -5,11 +5,11 @@ export const checkFigureType = ( sides ) => {
     
     // check for correct input
     for(const side of sides) {
-        if(!side || isNaN(side)) {
+        if(isNaN(side)) {
             throw new Error('Invalid numbers');
         }
 
-        if(side <= 0) {
+        if(side < 0) {
             throw new Error('All values must positive');
         }
     }
